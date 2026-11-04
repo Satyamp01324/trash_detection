@@ -1,0 +1,6 @@
+plastic
+bottle
+bag
+foam
+debris
+other_trash

@@ -1,0 +1,14 @@
+# Floating Trash - YOLO Dataset
+path: floating_trash_yolo
+train: images/train
+val: images/val
+test: images/test
+
+nc: 6
+names:
+  0: plastic
+  1: bottle
+  2: bag
+  3: foam
+  4: debris
+  5: other_trash

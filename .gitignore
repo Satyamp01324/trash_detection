@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Large model weights (downloaded automatically via download_models.py)
+*.pt
+models/*.pt
+
+# Output directories
+predictions/
+runs/
+.cache/
+
+# Test scratch files
+test_crop.jpg
+test_annotated.jpg
+
+# OS generated files
+.DS_Store
+Thumbs.db
